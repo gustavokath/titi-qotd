@@ -1,0 +1,24 @@
+{
+  "name": "titi-qotd",
+  "version": "1.0.0",
+  "description": "Titi QOTD",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavokath/titi-qotd.git"
+  },
+  "author": "Gustavo Kath & Paola Salvador",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gustavokath/titi-qotd/issues"
+  },
+  "homepage": "https://github.com/gustavokath/titi-qotd#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "random-js": "^1.0.8",
+    "telegraf": "^3.17.8"
+  }
+}
