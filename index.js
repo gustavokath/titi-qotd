@@ -2,16 +2,30 @@ const express = require('express')
 var fs = require('fs');
 const app = express()
 const Telegraf = require('telegraf')
-const telegram = require('telegraf/telegram')
+const Telegram = require('telegraf/telegram')
 var random = require("random-js")()
+const bot = new Telegraf(process.env.TITI_TELEGRAM_KEY)
+const telegram = new Telegram(process.env.TITI_TELEGRAM_KEY)
+const chatId = process.env.TITI_CHAT_ID
+
 const quotesJson = JSON.parse(fs.readFileSync('quotes.json', 'utf8'))
 const quotesArray = quotesJson.quotes
 var quantQuotes = quotesArray.length
-const bot = new Telegraf(process.env.TITI_TELEGRAM_KEY)
+
 
 var port = process.env.PORT || 3000
 app.listen(port)
 console.log('Server running on port: ' + port)
+
+app.get('/quote', (req, res) => {
+  var qouteText = getQuote()
+  telegram.sendMessage(chatId, qouteText)
+  res.send(qouteText)
+})
+
+app.get('/wake', (req, res) => {
+  res.send('I\'m back!')
+})
 
 bot.command('/janet', (ctx) => ctx.reply('Hi I\'m Janet'))
 bot.command('/nextQuote', (ctx) => {
