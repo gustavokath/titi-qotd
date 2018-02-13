@@ -1,28 +1,2248 @@
 {
-  "quotes": [
-    {
-      "text": "Ontem faz uma semana que a gente alisou teu cabelo.",
-      "authors": ["Laura"]
-    },
-    {
-      "text": "O gabriel vai semi nu?",
-      "authors": ["Henrique"]
-    },
-    {
-      "text": "Essa esquina é diva.",
-      "authors": ["Paola"]
-    },
-    {
-      "text": "Estou sem roupa.",
-      "authors": ["Paola"]
-    },
-    {
-      "text": "Pisei num rato.",
-      "authors": ["Gabriel "]
-    },
-    {
-      "text": "Marcia, tu ta falando muito longe da boca",
-      "authors": ["Pietro"]
-    }
-  ]
+    "quotes": [
+        {
+            "text": "Ontem faz uma semana que a gente alisou teu cabelo.",
+            "authors": [
+                "Laura"
+            ]
+        },
+        {
+            "text": "O gabriel vai semi nu?",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Essa esquina é diva.",
+            "authors": [
+                "Paola"
+            ]
+        },
+        {
+            "text": "Estou sem roupa.",
+            "authors": [
+                "Paola"
+            ]
+        },
+        {
+            "text": "Pisei num rato.",
+            "authors": [
+                "Gabriel"
+            ]
+        },
+        {
+            "text": "Marcia, tu ta falando muito longe da boca",
+            "authors": [
+                "Pietro"
+            ]
+        },
+        {
+            "text": "- Que filme tu vai ver?\n- Wolverine\n- Que ine?",
+            "authors": [
+                "Paola",
+                "Luiza"
+            ]
+        },
+        {
+            "text": "- Me dá um toque!\n-Como se faz isso?",
+            "authors": [
+                "Laura",
+                "Henrique"
+            ]
+        },
+        {
+            "text": "- Pode ser ciclano?\n- Ciclano não sei, mas tornado pode.",
+            "authors": [
+                "Luis"
+            ]
+        },
+        {
+            "text": "- Será que ele faz o que da vida?\n- Tênis!!",
+            "authors": [
+                "Luiza",
+                "Paola"
+            ]
+        },
+        {
+            "text": "-Qual é o bolo da paola?\n-Torta de bolacha.",
+            "authors": [
+                "Suélen",
+                "Paola"
+            ]
+        },
+        {
+            "text": "- O que é o TCC?\n- É o trabalho...\n - ...dele?",
+            "authors": [
+                "Paola",
+                "Victoria"
+            ]
+        },
+        {
+            "text": "- Tinha uma perereca no meu banheiro hoje de manhã, como ela entrou lá?\n- A chuva",
+            "authors": [
+                "Suélen",
+                "Victoria"
+            ]
+        },
+        {
+            "text": "- O que tu quer comer?\n- Taxiii",
+            "authors": [
+                "Laura",
+                "Gabriel"
+            ]
+        },
+        {
+            "text": "- O que nós vamos fazer?\n- Vamos fazer um bebê ",
+            "authors": [
+                "Laura",
+                "Paola"
+            ]
+        },
+        {
+            "text": "- Tem um lixeiro nessa sala?\n- Não sei, não respiro",
+            "authors": [
+                "Victoria",
+                "Luiza"
+            ]
+        },
+        {
+            "text": "- O homem de Aço deve ser muito bom.\n- Parece o super homem",
+            "authors": [
+                "Paola",
+                "Henrique"
+            ]
+        },
+        {
+            "text": "- Tu se matou?\n- Sim, é que eu faço pontinhos.",
+            "authors": [
+                "Victoria",
+                "Luiza"
+            ]
+        },
+        {
+            "text": "- Não era milharal?\n- Acho que era, era soja, trigo...",
+            "authors": [
+                "Victoria",
+                "Luiza"
+            ]
+        },
+        {
+            "text": "- Vê se já vem com Microsoft Office.\n-O que é isso?",
+            "authors": [
+                "Paola",
+                "Henrique"
+            ]
+        },
+        {
+            "text": " - Qual é o nome do pota?\n- Henrique.\n- Castiel.",
+            "authors": [
+                "Gabriel",
+                "Victoria",
+                "Luiza"
+            ]
+        },
+        {
+            "text": "- O que foi a batalha de verdun?\n- Foi quando a França venceu a vitória.",
+            "authors": [
+                "Luis",
+                "Henrique"
+            ]
+        },
+        {
+            "text": "- O lutador\n- Ah é, aquele que luta.",
+            "authors": [
+                "Henrique",
+                "Luiza"
+            ]
+        },
+        {
+            "text": "- Tu moraria no Chile? Só tem gente feia lá. \n- Bem por isso que eu iria",
+            "authors": [
+                "Luis",
+                "Henrique"
+            ]
+        },
+        {
+            "text": "- E os olhos dela eram tipo estrelas. \n- Com cinco pontas?",
+            "authors": [
+                "Henrique",
+                "Paola",
+                "sobre a coruja cega"
+            ]
+        },
+        {
+            "text": "- Como é que se chama isso? \n-Skinó",
+            "authors": [
+                "Henrique",
+                "Luis",
+                "sobre snowmobile"
+            ]
+        },
+        {
+            "text": "- Sabe aqueles ratinhos do desenho? Aqueles que um é baixinho e gordo e o outro é magrinho?\n- Siim, Pink Floyd!",
+            "authors": [
+                "Gabriela",
+                "sobre Pink e Cérebro"
+            ]
+        },
+        {
+            "text": "- Tu leu o livro?- Tu liu?",
+            "authors": [
+                "Laura",
+                "Paola"
+            ]
+        },
+        {
+            "text": "- Esse lugar é de família\n- Sim, o nome é primo",
+            "authors": [
+                "Victoria",
+                "Henrique"
+            ]
+        },
+        {
+            "text": "- Ela é vegetariana?\n- Não, ela não come flor",
+            "authors": [
+                "Paola",
+                "Gustavo"
+            ]
+        },
+        {
+            "text": "-Eu descobri como tirar foto do computador, no computador.\n- Print screen?\n-Sim.",
+            "authors": [
+                "Henrique",
+                "Victoria"
+            ]
+        },
+        {
+            "text": "- Não tem ninguém que faz aniversário em abril né.\n- Tem sim, tem Jesus.",
+            "authors": [
+                "Alguém",
+                "Luiza"
+            ]
+        },
+        {
+            "text": "- Tem a porção de fritas de 500g\n- É de meio quilo?",
+            "authors": [
+                "Luiza",
+                "Luis"
+            ]
+        },
+        {
+            "text": "Posso compartilhar o luis?",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Sábado antepassado.",
+            "authors": [
+                "Laura"
+            ]
+        },
+        {
+            "text": "Nossa, foi muito legal e comida.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Ele deu uma pedrada na tua porta e eu tava dentro.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "É que ele não tem sobrenome.",
+            "authors": [
+                "Paola"
+            ]
+        },
+        {
+            "text": "Hoje foi o dia que eu fui jesus.",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "Eu ia ficar roxa de vermelha.",
+            "authors": [
+                "Victoria "
+            ]
+        },
+        {
+            "text": "Palmito na espiga?",
+            "authors": [
+                "Gabriel"
+            ]
+        },
+        {
+            "text": "Ela é outra criança do meu rebanho!",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "Ele é cor.",
+            "authors": [
+                "Paola"
+            ]
+        },
+        {
+            "text": "Eu tava rindo de nada, de tudo sabe?",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "No fim vai valer a pena, a gente vomita mas vale a pena.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Espanhol não merece meus neurônios.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Tenho cartão unimed e de vida.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Cocuda.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Meu cabelo está triste.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "O que não é nós é resto.",
+            "authors": [
+                "Gabriela"
+            ]
+        },
+        {
+            "text": "Siri é como se fosse nutella em carne.",
+            "authors": [
+                "Luis"
+            ]
+        },
+        {
+            "text": "Eu só ouço a Luiza risando.",
+            "authors": [
+                "Gabriela"
+            ]
+        },
+        {
+            "text": "É uma crescência.",
+            "authors": [
+                "Gabriel"
+            ]
+        },
+        {
+            "text": "Tu é um dinossauro rex.",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "A Julinha parece mais contigo que tu mesma.",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "Tu é a tua cara.",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "Eu somos os animais da fazenda.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "O Pota é uma negadinha.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Se eu encontrar um sorvete de galinha.",
+            "authors": [
+                "Gabriel"
+            ]
+        },
+        {
+            "text": "Galinha é kitchen?",
+            "authors": [
+                "Gabriel"
+            ]
+        },
+        {
+            "text": "Aquele prato é crochê?",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "A Paola tá dormindo de sono.",
+            "authors": [
+                "Gabriela"
+            ]
+        },
+        {
+            "text": "Diz pro Gabriel que a Paola mora dentro de mim, no meu coração.",
+            "authors": [
+                "Márcia"
+            ]
+        },
+        {
+            "text": "Quando eu crescesse.",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "Quando eu fosse ela.",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "Tá bom, agora eu tenho uma cara.",
+            "authors": [
+                "Paola."
+            ]
+        },
+        {
+            "text": "Minha mãe vai ser minha vó.",
+            "authors": [
+                "Letícia"
+            ]
+        },
+        {
+            "text": "Assim como Jesus transforma água em vinho, eu transformo água em suco.",
+            "authors": [
+                "Luis"
+            ]
+        },
+        {
+            "text": "Até ano passado ela tinha 74 anos, esse ano ela tem 77.",
+            "authors": [
+                "Laura"
+            ]
+        },
+        {
+            "text": "Meu cabelo tá cremoso.",
+            "authors": [
+                "Gabriel"
+            ]
+        },
+        {
+            "text": "O Gian tem 1,53m, o pai dele tem 200.",
+            "authors": [
+                "Pietro"
+            ]
+        },
+        {
+            "text": "O Gabi ia ser Eva.",
+            "authors": [
+                "Pietro"
+            ]
+        },
+        {
+            "text": "Ela é nós adulta.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Ela me contei.",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "Isso mostra que a gente era uma pessoa.",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "Qual seu nome? Vinícius? Laura para",
+            "authors": [
+                "Paola"
+            ]
+        },
+        {
+            "text": "É tipo o passado de brinquedo.",
+            "authors": [
+                "Gabriel"
+            ]
+        },
+        {
+            "text": "Eu sou uma moça estilosa.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Será que eu sou delicioso? Um dia quero me experimentar.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Se meu nome fosse crisântemo.",
+            "authors": [
+                "Paola"
+            ]
+        },
+        {
+            "text": "Eu sou o massacre da serra elétrica.",
+            "authors": [
+                "Pietro"
+            ]
+        },
+        {
+            "text": "Ela tá lá mas ela é nós.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Mas 4 é",
+            "authors": [
+                "ímpar! Gabriela"
+            ]
+        },
+        {
+            "text": "Uh cocô, eu gosto de cocô.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "A gente tava observando com os ouvidos.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "É por isso que eu leio",
+            "authors": [
+                "dormindo. Luiza"
+            ]
+        },
+        {
+            "text": "Ema é a mulher do veado?",
+            "authors": [
+                "Gabriel."
+            ]
+        },
+        {
+            "text": "No molusco ocorre o habitat que é o que ele se alimenta.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Eles estão imitando nosso cocô.",
+            "authors": [
+                "Paola"
+            ]
+        },
+        {
+            "text": "Ele não sei.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Ecotone é tipo panetone de alface.",
+            "authors": [
+                "Luis"
+            ]
+        },
+        {
+            "text": "Tequila te faz ver o mundo em 3D.",
+            "authors": [
+                "Luis"
+            ]
+        },
+        {
+            "text": "Minha mãe casou esse ano, ano que vem.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Tua cabeça não te pertence.",
+            "authors": [
+                "Gabriel"
+            ]
+        },
+        {
+            "text": "A gente somos estranhos.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "A gente está brigadas.",
+            "authors": [
+                "Paola"
+            ]
+        },
+        {
+            "text": "Luis, vamos fazer Titanic?",
+            "authors": [
+                "Gabriel"
+            ]
+        },
+        {
+            "text": "Eu gosto de escutar o clima.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Daí no dia seguinte eu acordo meio zumbia.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Adoro pisar na água molhadinha.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Escapamentação.",
+            "authors": [
+                "Gabriel"
+            ]
+        },
+        {
+            "text": "Aquele corredor tá muito escuro, parece o da",
+            "authors": [
+                "Samara! Suélen"
+            ]
+        },
+        {
+            "text": "Porque meu nome é mel.",
+            "authors": [
+                "Arthur"
+            ]
+        },
+        {
+            "text": "Ai Luis Augusto, tá me",
+            "authors": [
+                "machucando. Suélen"
+            ]
+        },
+        {
+            "text": "Tu não tem seios, eu tenho.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Deixa eu fazer meus seios.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "A gente viu pepino do mar, ele faz xixi.",
+            "authors": [
+                "Suélen "
+            ]
+        },
+        {
+            "text": "Ela vive pela vida.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Ela é tão bonitinha que nem parece que caga.",
+            "authors": [
+                "Paola"
+            ]
+        },
+        {
+            "text": "A Suélen é tipo pinscher, late mas não morde.",
+            "authors": [
+                "Luis"
+            ]
+        },
+        {
+            "text": "Tu viu que ele tirou a Madre Teresa de mim?",
+            "authors": [
+                "Suélen"
+            ]
+        },
+        {
+            "text": "Visão é psicológica, tu imagina que tu vê, tu vê.",
+            "authors": [
+                "Luis"
+            ]
+        },
+        {
+            "text": "Genteee! Eu to vazando pela mão!",
+            "authors": [
+                "Suélen"
+            ]
+        },
+        {
+            "text": "Quem sempre curte: parênteses.",
+            "authors": [
+                "Paola"
+            ]
+        },
+        {
+            "text": "Se eu tivesse um filho em inglês.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Laura, tu poderia usar teu cabelo como suspensório.",
+            "authors": [
+                "Paola"
+            ]
+        },
+        {
+            "text": "Eu gosto daquela dança preta.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Futebol eu não danço.",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "Corrente marítima é como o vento no mar.",
+            "authors": [
+                "Gabriel"
+            ]
+        },
+        {
+            "text": "Berinjela é um tomate?",
+            "authors": [
+                "Gabriela"
+            ]
+        },
+        {
+            "text": "Qual é o problema dessa mesa? Ela tá cuspindo meu material.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Olha os seios do Brasil, como são estão mal feitos.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Tu tem uma plantação de couve flor na cabeça.",
+            "authors": [
+                "Luis"
+            ]
+        },
+        {
+            "text": "Tu vai cultivar tuas ovelhas.",
+            "authors": [
+                "Luis"
+            ]
+        },
+        {
+            "text": "Eles vão colher as ovelhas do campo.",
+            "authors": [
+                "Gabriel"
+            ]
+        },
+        {
+            "text": "Claro que eu querer.",
+            "authors": [
+                "Paola"
+            ]
+        },
+        {
+            "text": "Acho que é a chuva, o ar fica úmido e entra água no cérebro, daí dá problema.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "O twitter é tipo nossa",
+            "authors": [
+                "bíblia. Paola"
+            ]
+        },
+        {
+            "text": "Patrã.",
+            "authors": [
+                "Zé"
+            ]
+        },
+        {
+            "text": "Não acredito que eu falei isso, parece que alguém dentro de mim falou e eu repeti.",
+            "authors": [
+                "Paola"
+            ]
+        },
+        {
+            "text": "Como será que é a cueca do Mauro?",
+            "authors": [
+                "Gabriel"
+            ]
+        },
+        {
+            "text": "Tu pode ser uma senhora feudal com uma plantação de porcos.",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "Eu te amo, tu me ama, a gente é amor perfeito.",
+            "authors": [
+                "Pietro"
+            ]
+        },
+        {
+            "text": "Eu vou ser a bendita entre as mulheres.",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "Deles Luis?",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "Eu, tu e a paola são as que dizem amém.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Eles não falam mais, eles só comem.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Tu vai gabaritar mais que todos.",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "Bah, as alma me adoram.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Pouco tri eu!",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "Vocês ouviram o trevão?",
+            "authors": [
+                "Suélen"
+            ]
+        },
+        {
+            "text": "O Fabricio sempre da as álgebras.",
+            "authors": [
+                "Suélen"
+            ]
+        },
+        {
+            "text": "O ano que vem ele trouxe a família inteira porque ele era paraninfo.",
+            "authors": [
+                "Suélen"
+            ]
+        },
+        {
+            "text": "Ele tem uma carinha.",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "Tipo \"Denis, o pimentinha\".",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "Ahh! Ele ficou só no gogó!",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "Minha casa é revolucionária.",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "Mas no ônibus eu não sou uma pessoa.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Engenharia civil é medicina de quem gosta de matemática.",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "Teu dindo existe?",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "Tu não acha que o mundo tá estranho?",
+            "authors": [
+                "Laura"
+            ]
+        },
+        {
+            "text": "Nós sempre no pior lugar, mas é o melhor!",
+            "authors": [
+                "Laura"
+            ]
+        },
+        {
+            "text": "Ele caga dinheiro e mija moedinha de um.",
+            "authors": [
+                "Jack",
+                "sobre Gabriel"
+            ]
+        },
+        {
+            "text": "Amarrem que nem Jesus amarrava.",
+            "authors": [
+                "Laura"
+            ]
+        },
+        {
+            "text": "É que todo mundo tem um pé.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Tinha esquecido como era ter dentes.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Qual é o formato do grão dessa uva?",
+            "authors": [
+                "Márcia"
+            ]
+        },
+        {
+            "text": "Coitada da Bruna, eu sempre pego ela.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Eu te desclipo, Luiza.",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "É que eu não sei os dias da semana.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Ele quer fazer a teia da vida mas não tem uma aranha na bundinha.",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "Espero que ele também se dispida.",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "Ele é legal, ele vai no banheiro.",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "É que as escadas esquentam muito.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "É complicado, o lado mais preguiçoso da força é mais forte.",
+            "authors": [
+                "Paola"
+            ]
+        },
+        {
+            "text": "Eu ia, daí minha cabeça caia.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Pensa no que tu escreveu escrito.",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "Tua mãe ainda trabalha naquele hotel que fechou?",
+            "authors": [
+                "Laura"
+            ]
+        },
+        {
+            "text": "O que é suco de U.V.A? –",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "To com traumatismo craniano, só que nas pernas.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Vamos parar numa lancheteria?",
+            "authors": [
+                "Pietro"
+            ]
+        },
+        {
+            "text": "Aquela missão tinha sido cassafrada.",
+            "authors": [
+                "Pietro"
+            ]
+        },
+        {
+            "text": "Meu primo via o diabo de bicicleta.",
+            "authors": [
+                "Gabriela"
+            ]
+        },
+        {
+            "text": "A Vic vai fazer medicina elétrica.",
+            "authors": [
+                "Letícia"
+            ]
+        },
+        {
+            "text": "É tipo Jesus em forma de chocolate.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "O nome do meu filho vai ser Trevor e da minha filha Trevar ou Maria Madalena.",
+            "authors": [
+                "Pietro."
+            ]
+        },
+        {
+            "text": "Às vezes eu não acredito que eu existo.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Meu bolso é muito inseguro.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Eu gosto de banheiros, tenho uma foto em um.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Batata é um defunto.",
+            "authors": [
+                "Márcia"
+            ]
+        },
+        {
+            "text": "Chamam ela de Mel, mas acho que o nome da guria é Melanina.",
+            "authors": [
+                "Márcia"
+            ]
+        },
+        {
+            "text": "Mas daí eu vou mandar o computador reformatar.",
+            "authors": [
+                "Pietro"
+            ]
+        },
+        {
+            "text": "É legal ouvir essas músicas coloridas.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Ele não é motorista, ele tá dentro do ônibus!",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "São centoefotos!",
+            "authors": [
+                "Gabriela"
+            ]
+        },
+        {
+            "text": "Assim tu vai machucar minhas aveias.",
+            "authors": [
+                "Letícia"
+            ]
+        },
+        {
+            "text": "Eu tô com tremura nos dentes.",
+            "authors": [
+                "Letícia"
+            ]
+        },
+        {
+            "text": "Frio é a minha perdição. Por ele eu me derreto.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Por um momento, pensei que titi fosse um país!!!",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Eu só comia Mc Feliz por causa da melancia!",
+            "authors": [
+                "Gabriela"
+            ]
+        },
+        {
+            "text": "Uma vez eu também tava perdida de cabelo.",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "Confio mais em ti porque tu gosta menos de bacon.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "É um arco íris de emoção.",
+            "authors": [
+                "Luiza."
+            ]
+        },
+        {
+            "text": "Sou tipo teu deus particular lui, quando você tiver problemas me procure e lhe mostrarei o caminho.",
+            "authors": [
+                "Paola"
+            ]
+        },
+        {
+            "text": "Eu sempre fui tua religião, só que tu não tinha percebido.",
+            "authors": [
+                "Paola"
+            ]
+        },
+        {
+            "text": "A gente continua nós.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Arranja um namorado, muito urgente e dá um beijo de desentupir até a alma.",
+            "authors": [
+                "Luiza."
+            ]
+        },
+        {
+            "text": "Aconteceu uma coisa muito engraçada: o Pota foi no banheiro pela primeira vez.",
+            "authors": [
+                "Luis"
+            ]
+        },
+        {
+            "text": "Ele é um casamento.",
+            "authors": [
+                "Victoria",
+                "sobre Gabriel"
+            ]
+        },
+        {
+            "text": "O Pota é uma dama, eu e o Luis somos selvagens.",
+            "authors": [
+                "Gabriel"
+            ]
+        },
+        {
+            "text": "...E animais. Selvagens. Tipo borboletas.",
+            "authors": [
+                "Paola"
+            ]
+        },
+        {
+            "text": "Paola, sabia que a gente tem um anão?",
+            "authors": [
+                "Gabriel"
+            ]
+        },
+        {
+            "text": "É quase uma guerra meu.",
+            "authors": [
+                "Luis",
+                "sobre cachorro quente com 3 salsichas"
+            ]
+        },
+        {
+            "text": "A mulher tem 10 filhos, 6 dela e 6 adotados.",
+            "authors": [
+                "Laura"
+            ]
+        },
+        {
+            "text": "Peraí que agora eu quero ver o Gabriel nu.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "E to com vontade de cozinhar a vida.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Eu se machuquei.",
+            "authors": [
+                "Laura"
+            ]
+        },
+        {
+            "text": "Nem se a vida nascer de novo.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Esse V aí é de velocidade?",
+            "authors": [
+                "Henrique",
+                "sobre densidade (d=m/v)"
+            ]
+        },
+        {
+            "text": "Os peixes cartilaginosos são tubarão, raia e BALEIA, né?",
+            "authors": [
+                "Luis"
+            ]
+        },
+        {
+            "text": "- Por que as coisas cozinham mais rápido na panela de pressão?\n - Porque a pressão é maior.\n - Ah, pensei que era porque as coisas ficam tristes (panela depressão)",
+            "authors": [
+                "Henrique",
+                "Luis"
+            ]
+        },
+        {
+            "text": "Eu sou toda importada.",
+            "authors": [
+                "Gabriela"
+            ]
+        },
+        {
+            "text": "Minhas costas se foram.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Quanto mais grande melhor.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Ele é de um dia que só existe de vez em quando.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Faz mal mas faz bem.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Tipo, nível de beleza do Neymar nível de paixonite da pessoa. Eu tô achando o neymar lindo demais.",
+            "authors": [
+                "Paola"
+            ]
+        },
+        {
+            "text": "É pra fazer um som sonoro.",
+            "authors": [
+                "Letícia"
+            ]
+        },
+        {
+            "text": "Eu só não sei fazer sardinha.",
+            "authors": [
+                "Letícia",
+                "sobre embaixadinha"
+            ]
+        },
+        {
+            "text": "Eu sou a Michonne.",
+            "authors": [
+                "Luis"
+            ]
+        },
+        {
+            "text": "A gente rola, se esfola, chora, mas levanta e no fim é feliz.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Luiza, viciada em casamentos.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Mas um ânus ficaria bom.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Já te disse que sou um ratão gigante, uma ratazana.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Qual é o nome do bar do dentista?",
+            "authors": [
+                "Pietro"
+            ]
+        },
+        {
+            "text": "É tipo Jesus na terra da vida.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "A Bruna Marquezine engravidou o Neymar.",
+            "authors": [
+                "Pietro"
+            ]
+        },
+        {
+            "text": "Ele não tem cara de quem tem nome.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Eu tava com perna desde Porto Alegre.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Neymar e Ganso era tipo Gramado e Canela.",
+            "authors": [
+                "Paola"
+            ]
+        },
+        {
+            "text": "Me conta, me conta! Eu não quero saber.",
+            "authors": [
+                "Laura"
+            ]
+        },
+        {
+            "text": "É mais fácil fazer do jeito difícil.",
+            "authors": [
+                "Arthur"
+            ]
+        },
+        {
+            "text": "Algo tão como o voo de uma pequena borboleta.",
+            "authors": [
+                "Arthur"
+            ]
+        },
+        {
+            "text": "Terceira pessoa é nós.",
+            "authors": [
+                "Paola"
+            ]
+        },
+        {
+            "text": "Convitações.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Vou pedir um chocolate quente gelado.",
+            "authors": [
+                "Pietro."
+            ]
+        },
+        {
+            "text": "Essa batata doce daria um belo doce de abóbora.",
+            "authors": [
+                "Eu"
+            ]
+        },
+        {
+            "text": "A primeira vez que fiz isso demorei milhões de anos pra achar onde enfiar o trocinho.",
+            "authors": [
+                "Henrique",
+                "sobre inserção do cabo HDMI"
+            ]
+        },
+        {
+            "text": "Gabi, tu não pode ficar como aquelas obesas magras que tem anorexia.",
+            "authors": [
+                "Feijão"
+            ]
+        },
+        {
+            "text": "Mata amazônica.",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "Deve ser legal tirar isso, botar a cabeça dentro da raquete e usar tipo um colar.",
+            "authors": [
+                "Paola"
+            ]
+        },
+        {
+            "text": "Eu também, eu tô numa cabeça.",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "É que ele foi podado.",
+            "authors": [
+                "Paola",
+                "sobre um cachorro."
+            ]
+        },
+        {
+            "text": "Esperando o fim da eternidade.",
+            "authors": [
+                "Luis"
+            ]
+        },
+        {
+            "text": "Guerra dos Mascavo.",
+            "authors": [
+                "Luis",
+                "sobre Guerra dos Mascates"
+            ]
+        },
+        {
+            "text": "A vara é a varinha de sabugosa.",
+            "authors": [
+                "Luis",
+                "sobre a varinha de sabugueiro (Harry Potter)"
+            ]
+        },
+        {
+            "text": "Aquele triângulo quadrado.",
+            "authors": [
+                "Luiza",
+                "sobre pirâmide"
+            ]
+        },
+        {
+            "text": "Qual o isômero geométrico da Cisjordânia? A Transjordânia.",
+            "authors": [
+                "Luis"
+            ]
+        },
+        {
+            "text": "E eu gosto de ter coisas contadas.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Ele te sabe.",
+            "authors": [
+                "Paola"
+            ]
+        },
+        {
+            "text": "Na Califórnia deve ter muito mexicano, no México também.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Teria que ser um gás sólido.",
+            "authors": [
+                "Luis"
+            ]
+        },
+        {
+            "text": "Maroto sou eu.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Sou fã de vocês enquanto não arranjo minha própria pessoa.",
+            "authors": [
+                "Luiza."
+            ]
+        },
+        {
+            "text": "Aqui só tem carne de bicho.",
+            "authors": [
+                "Pietro",
+                "sobre churrasco"
+            ]
+        },
+        {
+            "text": "Imagina a Paola dentro dum carro.",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "Tipo Marlon só que carlos.",
+            "authors": [
+                "Paola",
+                "sobre Marlos"
+            ]
+        },
+        {
+            "text": "A Virgínia, minha colega de parto.",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "Eu não aguento mais ter cunhados.",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "A gente vai se jogar de piscina e tudo.",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "É que eu sou tipo a série que a Luiza assiste.",
+            "authors": [
+                "Paola"
+            ]
+        },
+        {
+            "text": "É culpa do primo das drogas.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "A não ser que o cara seja o Pota, é guri.",
+            "authors": [
+                "Paola"
+            ]
+        },
+        {
+            "text": "Bochó.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Porque bocho é com xh.",
+            "authors": [
+                "Laura"
+            ]
+        },
+        {
+            "text": "É que eu nunca tinha feito bháskara reduzida.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Ele é uma gravação.",
+            "authors": [
+                "Luis"
+            ]
+        },
+        {
+            "text": "Tu tem que ter uma ponte divina entre tua cabeça e o céu.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Ele me lembra algum animal. Mas de pequeno porte.",
+            "authors": [
+                "Laura",
+                "sobre Aécio"
+            ]
+        },
+        {
+            "text": "Parece um pudim.",
+            "authors": [
+                "Luis",
+                "sobre pastor Everaldo"
+            ]
+        },
+        {
+            "text": "A purpurina dele me cegou.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Ele é branco sem cabelo.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Os de baixo, que são os humanos, são muito estranhos.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Quem é mais estranho ? Aquela guria homem.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Ela tem cabelo de homem mas ao mesmo tempo é de mulher. É curto e loiro.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Poucos tem nome próprio.",
+            "authors": [
+                "Luis"
+            ]
+        },
+        {
+            "text": "Era uma piadinha assim, temperada.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Quando ela demonstrou o ser que era, ela virou gorda.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Me confundei.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Ele tá mesclando um chiclet.",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "Ah, o guisado! Me alcança o guisado, rápido!",
+            "authors": [
+                "Henrique",
+                "sobre o garfo"
+            ]
+        },
+        {
+            "text": "Aquelas palavras pra deficientes, eu não sou deficiente!",
+            "authors": [
+                "Henrique",
+                "sobre captcha"
+            ]
+        },
+        {
+            "text": "Eu não como mais pão. Hoje vou comer um sanduíche.",
+            "authors": [
+                "Laura"
+            ]
+        },
+        {
+            "text": "Eu não peço carona, eu sou oferecida.",
+            "authors": [
+                "Paola"
+            ]
+        },
+        {
+            "text": "Minha vida é uma ameba.",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "O Pota tem um iPhone S5 né?",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "Não vejo a hora do aniversário da Naiara.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Tinha até folha de arroz!",
+            "authors": [
+                "Victoria",
+                "sobre grão de arroz"
+            ]
+        },
+        {
+            "text": "Quando tu ta com a bola na mão, tu não pode pisar na bola.",
+            "authors": [
+                "Gabriela",
+                "sobre handebol"
+            ]
+        },
+        {
+            "text": "Eu faço todo trabalho, mas não faço engenharia de conclusão.",
+            "authors": [
+                "Luiza",
+                "sobre introdução"
+            ]
+        },
+        {
+            "text": "Eu odeio mestrução",
+            "authors": [
+                "Luis"
+            ]
+        },
+        {
+            "text": "Tu sabe o que é torrada?",
+            "authors": [
+                "Paola"
+            ]
+        },
+        {
+            "text": "A gente tem cara de suco.",
+            "authors": [
+                "Paola"
+            ]
+        },
+        {
+            "text": "Tu escolhe até que tem vaga no professor.",
+            "authors": [
+                "Paola"
+            ]
+        },
+        {
+            "text": "Tu falou com a minha voz. Henrique, cunhado da",
+            "authors": [
+                "Vic"
+            ]
+        },
+        {
+            "text": "Mas como, ele é irmão único?",
+            "authors": [
+                "Pietro",
+                "sobre filho único"
+            ]
+        },
+        {
+            "text": "A única coisa que eu sei sobre a Austrália é que é na Ásia",
+            "authors": [
+                "Luis"
+            ]
+        },
+        {
+            "text": "Aqui só tem assassinos. Laura no",
+            "authors": [
+                "supermercado"
+            ]
+        },
+        {
+            "text": "Não era um vectra com bunda curta?",
+            "authors": [
+                "Laura"
+            ]
+        },
+        {
+            "text": "Na globo vai ter expectativa 2014.",
+            "authors": [
+                "Pietro"
+            ]
+        },
+        {
+            "text": "Vênus é o país mais perto da terra.",
+            "authors": [
+                "Luis"
+            ]
+        },
+        {
+            "text": "Mãe, bota água em pó.",
+            "authors": [
+                "Letícia"
+            ]
+        },
+        {
+            "text": "A feia tá coisa aqui atrás.",
+            "authors": [
+                "Luis"
+            ]
+        },
+        {
+            "text": "Eu não sei se tô rindo ou se tô bêbada.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "É que eu sou mais da vila.",
+            "authors": [
+                "Paola",
+                "sobre bebidas"
+            ]
+        },
+        {
+            "text": "No silêncio a gente ouve as coisas.",
+            "authors": [
+                "Márcia"
+            ]
+        },
+        {
+            "text": "Assustante.",
+            "authors": [
+                "Laura"
+            ]
+        },
+        {
+            "text": "Ela é muito feia porque ela tem um ombro de cada lado.",
+            "authors": [
+                "Paola"
+            ]
+        },
+        {
+            "text": "Ele mata a mãe no velório.",
+            "authors": [
+                "Laura"
+            ]
+        },
+        {
+            "text": "Ele tava tipo de roupa... De AGE.",
+            "authors": [
+                "Gabriel"
+            ]
+        },
+        {
+            "text": "Eu sou o fim da escravidão.",
+            "authors": [
+                "Pietro"
+            ]
+        },
+        {
+            "text": "Eu conheço guris que dormem.",
+            "authors": [
+                "Laura"
+            ]
+        },
+        {
+            "text": "Milkshake é um chá de adolescentes.",
+            "authors": [
+                "Gabriel"
+            ]
+        },
+        {
+            "text": "Meus pés tem medo de escuro.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Tá faltando um pra completar os apóstolos da arca de Noé.",
+            "authors": [
+                "Márcia"
+            ]
+        },
+        {
+            "text": "A célula tem que morrer, então ela se auto morre.",
+            "authors": [
+                "Gabriela"
+            ]
+        },
+        {
+            "text": "Ele é pai de filhos?",
+            "authors": [
+                "Paola"
+            ]
+        },
+        {
+            "text": "Eu não penteio nem sequeio.",
+            "authors": [
+                "Luiza",
+                "sobre cabelo"
+            ]
+        },
+        {
+            "text": "O Canadá é tipo o Brasil da Finlândia.",
+            "authors": [
+                "Gabriel"
+            ]
+        },
+        {
+            "text": "Espera, o bandeirantes tá uma pessoa.",
+            "authors": [
+                "Paola"
+            ]
+        },
+        {
+            "text": "Que queijo é o chester? –",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Tua piscina tem hidrelétrica?",
+            "authors": [
+                "Pietro"
+            ]
+        },
+        {
+            "text": "Tu viu que agora tem Sprite de limão?",
+            "authors": [
+                "Márcia"
+            ]
+        },
+        {
+            "text": "Tu acha que eu não vejo o sol nascer?",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "É porque sou sólida.",
+            "authors": [
+                "Luiza",
+                "sobre solidão"
+            ]
+        },
+        {
+            "text": "Luiza, teu nome me confunde com a maionese.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Eu sempre vejo meu vizinho, acho que ele mora em casa.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Quando eu morava em Guaporé eu não usava roupas. Só aos sábados.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Olha esse T que máximo.",
+            "authors": [
+                "Laura"
+            ]
+        },
+        {
+            "text": "Algum dia tenho que tirar uma foto sendo uma sereia.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Quando eu como com a boca, eu como mais rápido.",
+            "authors": [
+                "Gustavo"
+            ]
+        },
+        {
+            "text": "Sempre que aparece uma dilma eu faço questão de comer.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "O rivotril acabou de comer a dilma.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Quem que se matou de novo?",
+            "authors": [
+                "Gabriel"
+            ]
+        },
+        {
+            "text": "E o espetacular tava do meu lado!",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "O Henrique fumou açúcar!",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "O Luis é o Cristiano Ronaldo do messenger.",
+            "authors": [
+                "Gabriel"
+            ]
+        },
+        {
+            "text": "O que é Wolverine? A escola do Harry Potter? Dani, mãe da",
+            "authors": [
+                "Gabi"
+            ]
+        },
+        {
+            "text": "Eu sou que nem a voz do Brasil, ninguém me escuta.",
+            "authors": [
+                "Laura"
+            ]
+        },
+        {
+            "text": "A Hillary vai ganhar as eleições. Ela tem o apoio do Ibama. Dani, mãe da",
+            "authors": [
+                "Gabi"
+            ]
+        },
+        {
+            "text": "Meu pé é pretinho.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Tem gente se pegando aí nos saquinhos.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Eu acho que a gente deveria existir.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Eu sou uma pessoa meio ameba.",
+            "authors": [
+                "Paola"
+            ]
+        },
+        {
+            "text": "Quantos dias tinham as minhas horas?",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Mas 10 não é a metade de 5?",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Eu não enxergo: sou surda.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Cerveja combina com cerveja.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Se nada der certo a gente faz uma banda de karaoke.",
+            "authors": [
+                "Victoria"
+            ]
+        },
+        {
+            "text": "Melhor na história que fora da história porque fora da história é pra sempre.",
+            "authors": [
+                "Gustavo"
+            ]
+        },
+        {
+            "text": "Tu tem que ir com um pau amigo.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Não nesse março, março da semana que vem.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Eu sou princeso.",
+            "authors": [
+                "Gabriel"
+            ]
+        },
+        {
+            "text": "Eu me gosto mais de lente que de olhos.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Eu me recuso a não deixar o Luis não beber.",
+            "authors": [
+                "Gabriel"
+            ]
+        },
+        {
+            "text": "Tá furacão?",
+            "authors": [
+                "Paola",
+                "sobre petit gateau"
+            ]
+        },
+        {
+            "text": "E o Gustavo comeu uma costelinha do Gabriel.",
+            "authors": [
+                "Paola"
+            ]
+        },
+        {
+            "text": "A Laura tem cristofobia.",
+            "authors": [
+                "Luis"
+            ]
+        },
+        {
+            "text": "Esse copo não é muito um copo, é um copo.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Como é o nome dela? Wesla? Weslay?",
+            "authors": [
+                "Laura"
+            ]
+        },
+        {
+            "text": "Tu tem que me dar o cocô!",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Mas o Peugeot é da Renault!",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Semestre que vem eu era bem musa.",
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
+            "text": "Eu sou mais cachorro também.",
+            "authors": [
+                "Henrique"
+            ]
+        },
+        {
+            "text": "Mas eu só como se for a língua de alguém conhecido.",
+            "authors": [
+                "Paola"
+            ]
+        }
+    ]
 }
