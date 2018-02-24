@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/gustavokath/titi-qotd#readme",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "express": "^4.16.2",
     "random-js": "^1.0.8",
     "telegraf": "^3.17.8"
