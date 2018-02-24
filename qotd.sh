@@ -1,1 +1,1 @@
-curl -X GET $1/quote
+curl -X GET $1/telegram/quote
