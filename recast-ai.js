@@ -2,7 +2,6 @@ const quotesUtil = require('./quotes-util')
 
 module.exports = (app) => {
   app.post('/recast-ai/quote', (req, res) => {
-    console.log(req.body)
     var intent = getBestIntent(req.body.nlp.intents);
     if(intent === 'new-quote'){
       res.send({
