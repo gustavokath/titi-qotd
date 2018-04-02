@@ -2802,33 +2802,58 @@
                 "Paola",
                 "Sobre quarto do Ibis em São Paulo"
             ]
-        },{
+        },
+        {
             "text": "Minha garganta, sabe o que  incomoda ela, a maconha",
             "authors": []
-        },{
+        },
+        {
             "text": "",
-            "authors": ["Luiza"]
-        },{
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
             "text": "Andem mais devagar pq eu não consigo caminhar e andar ao mesmo tempo",
-            "authors": ["Luiza"]
-        },{
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
             "text": "Eu almoçaria só sorvete",
-            "authors": ["Laura"]
-        },{
+            "authors": [
+                "Laura"
+            ]
+        },
+        {
             "text": "Eu devo 10 pra Laura, a Laura deve 10 pra Paola. Logo a Paola tem que me pagar 10",
-            "authors": ["Gustavo"]
-        },{
+            "authors": [
+                "Gustavo"
+            ]
+        },
+        {
             "text": "Eu deveria ser estudada. Eu me estudaria",
-            "authors": ["Luiza"]
-        },{
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
             "text": "Ele é muito rico. Não posso lutar com ele.",
-            "authors": ["Luiza"]
-        },{
+            "authors": [
+                "Luiza"
+            ]
+        },
+        {
             "text": "Isso que da comprar iPhone. Tem quem comprar Apple",
-            "authors": ["Germano"]
-        },{
+            "authors": [
+                "Germano"
+            ]
+        },
+        {
             "text": "Eu venderia algum órgão pra comprar Lindt",
-            "authors": ["Luiza"]
+            "authors": [
+                "Luiza"
+            ]
         }
     ]
 }
