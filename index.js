@@ -5,7 +5,7 @@ const quotesUtil = require('./quotes-util')
 
 var port = process.env.PORT || 3000
 app.listen(port)
-app.use(bodyParser.urlencoded({ extended: false }))
+app.use(bodyParser.urlencoded({ extended: true }))
 app.use(bodyParser.json())
 console.log('Server running on port: ' + port)
 
