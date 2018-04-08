@@ -14,6 +14,11 @@ module.exports = (app) => {
       res.end()
     }
   })
+
+  app.post('/errors', (req, res) => {
+    console.log(req.body)
+    res.send()
+  })
 }
 
 function getBestIntent(intentsList){
